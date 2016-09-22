@@ -1,0 +1,14 @@
+{
+  "name": "abiolabot",
+  "version": "1.0.0",
+  "description": "just building a twitchbot based on devcoffee",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akinnubi Abiola Sylvester",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.1.1"
+  }
+}
